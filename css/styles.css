@@ -105,3 +105,18 @@
   height: 650px;
   background-repeat: no-repeat;
 }
+#Name
+{
+  background: transparent !important;
+}
+#Email
+{
+  background: transparent !important;
+}
+#textbox
+{
+  background: transparent !important;
+}
+.form-control::-webkit-input-placeholder {
+  color: white;
+}
