@@ -1,9 +1,20 @@
 $(document).ready(function()
 {
-  $("#design")
+  $("#design").click(function()
+  {
+    $("#designtxt").toggle()
+    $("#designimg").toggle()
+  })
 
-  $("#development")
+  $("#development").click(function(){
+    $("#developtxt").toggle()
+    $("#developimg").toggle()
+  })
 
-  $("#product")
+  $("#product").click(function(){
+    $("#producttxt").toggle()
+    $("#productimg").toggle()
+  })
+  
 
 })
