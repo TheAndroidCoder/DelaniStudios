@@ -140,3 +140,7 @@
   color: white;
   padding-top: 50px;
 }
+.row blockquote{
+  /* display: none; */
+  color: white;
+}
