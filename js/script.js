@@ -17,7 +17,7 @@ $(document).ready(function()
   })
   
   $("#port1").hover(function(){
-    $(".")
+    $("#gray").removeClass("hide")
   })
 
 })
