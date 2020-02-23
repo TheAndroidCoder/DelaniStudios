@@ -15,9 +15,7 @@ $(document).ready(function()
     $("#producttxt").toggle()
     $("#productimg").toggle()
   })
-  $('[data-toggle="tooltip"]').tooltip();
-  });
-  
- 
 
-})
+  $('[data-toggle="tooltip"]').tooltip();
+
+  });
