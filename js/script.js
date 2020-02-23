@@ -16,6 +16,8 @@ $(document).ready(function()
     $("#productimg").toggle()
   })
   
-  
+  $("#port1").hover(function(){
+    $(".")
+  })
 
 })

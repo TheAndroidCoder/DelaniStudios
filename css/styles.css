@@ -143,4 +143,11 @@
 .row blockquote{
   /* display: none; */
   color: white;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+}
+.hide{
+  display: none;
 }
