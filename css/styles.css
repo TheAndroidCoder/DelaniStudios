@@ -14,8 +14,11 @@
 }
 .headertxt p{
   color: white;
-  padding-bottom: 140px;
+  /* padding-bottom: 140px; */
 }
+ #mouse{
+   padding-top: 145px
+} 
 .service{
   background-image: url("../images/backgrounds/s_image.jpg");
   background-size: cover; 
@@ -35,66 +38,65 @@
   
 }
 #port1{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work4.jpg");
-  height: 300px;
+  height: 250px;
   background-size: contain;
   background-repeat: no-repeat;
-  /* background-size: contain; */
 }
 #port2{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work3.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
 }
 
 .port3{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work2.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
 }
 .port4{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work1.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
 }
 .port5{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work5.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
 }
 .port6{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work6.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
 }
 .port7{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work7.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
 }
 .port8{
-  border: white solid 20px;
+  border-right: white solid 20px;
   background-image: url("../images/portfolio/work8.jpg");
-  height: 300px;
+  height: 250px;
   background-repeat: no-repeat;
   background-size: contain;
   
@@ -102,8 +104,13 @@
 .footer{
   background-image: url("../images/backgrounds/c_image.jpg");
   background-size: contain;
-  height: 650px;
+  height: 400px;
   background-repeat: no-repeat;
+}
+.footerform{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 45px;
 }
 #Name
 {
@@ -128,4 +135,8 @@
 }
 #producttxt{
   display: none;
+}
+.footer h2{
+  color: white;
+  padding-top: 50px;
 }
