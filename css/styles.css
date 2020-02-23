@@ -14,7 +14,7 @@
 }
 .headertxt p{
   color: white;
-  /* padding-bottom: 140px; */
+  
 }
  #mouse{
    padding-top: 145px
@@ -141,7 +141,7 @@
   padding-top: 50px;
 }
 .row blockquote{
-  /* display: none; */
+ 
   color: white;
   font-weight: bold;
   position: absolute;
