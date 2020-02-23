@@ -6,7 +6,9 @@
 }
 .headertxt{
   padding-top: 150px;
-  
+}
+body{
+  font-family: 'Raleway';
 }
 .headertxt h1{
   color: white;
