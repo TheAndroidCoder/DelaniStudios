@@ -15,9 +15,9 @@ $(document).ready(function()
     $("#producttxt").toggle()
     $("#productimg").toggle()
   })
+  $('[data-toggle="tooltip"]').tooltip();
+  });
   
-  $("#port1").hover(function(){
-    $("#gray").removeClass("hide")
-  })
+ 
 
 })
