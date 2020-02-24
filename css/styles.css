@@ -16,7 +16,11 @@ body{
 }
 .headertxt p{
   color: white;
+  font-size: 10px;
   
+}
+.about p{
+  font-size: 12px;
 }
  #mouse{
    padding-top: 145px
@@ -33,6 +37,13 @@ body{
 }
 .service p{
   color: white;
+  font-size: 12px;
+}
+.whatwedo p{
+  font-size: 10px;
+}
+.whatwedo h4{
+  font-size: 12px;
 }
 .porfolio{
   padding: 25px;
