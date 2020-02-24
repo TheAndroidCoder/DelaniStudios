@@ -10,6 +10,12 @@
 body{
   font-family: 'Raleway';
 }
+h2{
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 .headertxt h1{
   color: white;
   padding-top: 45px;
@@ -40,6 +46,7 @@ body{
   font-size: 12px;
 }
 .whatwedo p{
+  padding-top:10px ;
   font-size: 10px;
 }
 .whatwedo h4{
