@@ -22,8 +22,8 @@ h2{
 .headertxt p{
   color: white;
   font-size: 10px;
-  
 }
+
 .about p{
   font-size: 12px;
 }
@@ -130,14 +130,17 @@ h2{
 #Name
 {
   background: transparent !important;
+  color: white;
 }
 #Email
 {
   background: transparent !important;
+  color: white;
 }
 #textbox
 {
   background: transparent !important;
+  color: white;
 }
 .form-control::-webkit-input-placeholder {
   color: white;
